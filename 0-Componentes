@@ -4,7 +4,14 @@ Motores:Sirven para producir movimiento a partir de un eje      (ejemplo solamen
   Caracteristicas:
   Variedades:
 
-Relé:
+Relé: Un interruptor programable
+  Conexión a arduino:
+  Elementos necesarios:
+  Caracteristicas:
+  Variedades:
+  
+  
+  
 Servom
 
 Jumpers
